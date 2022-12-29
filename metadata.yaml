@@ -8,6 +8,9 @@ contributor:
     deathdate: 1963
     gutenberg_agent_id: '6891'
     url: http://www.gutenberg.org/2009/agents/6891
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Blankensee, Theo von
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/40698
     wikipedia: https://de.wikipedia.org/wiki/Kurt_Matull
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69455#Lord-Lister-No-0378-De-Aanslag-op-de-Londensche-Beurs
 gutenberg_issued: '2022-12-01'
 identifiers:
   gutenberg: '69455'
